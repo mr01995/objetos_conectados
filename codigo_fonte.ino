@@ -3,8 +3,8 @@
 #include <PubSubClient.h>
 
 // Configurações Wi-Fi e MQTT
-const char* ssid = "2G ZEUS";
-const char* password = "lessie00";
+const char* ssid = "NOME_REDE";
+const char* password = "SENHA_REDE";
 const char* mqtt_server = "test.mosquitto.org";
 
 // Inicialização do cliente Wi-Fi e MQTT
